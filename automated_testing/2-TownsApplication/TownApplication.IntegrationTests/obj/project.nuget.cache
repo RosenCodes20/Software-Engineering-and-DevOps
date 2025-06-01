@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "G20DFWUViMM=",
+  "dgSpecHash": "yKKgHlvu07c=",
   "success": true,
   "projectFilePath": "/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/2-TownsApplication/TownApplication.IntegrationTests/TownApplication.IntegrationTests.csproj",
   "expectedPackageFiles": [
@@ -19,10 +19,12 @@
     "/Users/macbookpro16/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
     "/Users/macbookpro16/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "/Users/macbookpro16/.nuget/packages/microsoft.net.test.sdk/17.14.0/microsoft.net.test.sdk.17.14.0.nupkg.sha512",
-    "/Users/macbookpro16/.nuget/packages/microsoft.testplatform.objectmodel/17.13.0/microsoft.testplatform.objectmodel.17.13.0.nupkg.sha512",
-    "/Users/macbookpro16/.nuget/packages/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg.sha512",
+    "/Users/macbookpro16/.nuget/packages/microsoft.testplatform.objectmodel/17.14.0/microsoft.testplatform.objectmodel.17.14.0.nupkg.sha512",
+    "/Users/macbookpro16/.nuget/packages/microsoft.testplatform.testhost/17.14.0/microsoft.testplatform.testhost.17.14.0.nupkg.sha512",
+    "/Users/macbookpro16/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/macbookpro16/.nuget/packages/system.collections.immutable/8.0.0/system.collections.immutable.8.0.0.nupkg.sha512",
     "/Users/macbookpro16/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
-    "/Users/macbookpro16/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
+    "/Users/macbookpro16/.nuget/packages/system.reflection.metadata/8.0.0/system.reflection.metadata.8.0.0.nupkg.sha512",
     "/Users/macbookpro16/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/Users/macbookpro16/.nuget/packages/xunit/2.9.3/xunit.2.9.3.nupkg.sha512",
     "/Users/macbookpro16/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512",
@@ -31,22 +33,7 @@
     "/Users/macbookpro16/.nuget/packages/xunit.core/2.9.3/xunit.core.2.9.3.nupkg.sha512",
     "/Users/macbookpro16/.nuget/packages/xunit.extensibility.core/2.9.3/xunit.extensibility.core.2.9.3.nupkg.sha512",
     "/Users/macbookpro16/.nuget/packages/xunit.extensibility.execution/2.9.3/xunit.extensibility.execution.2.9.3.nupkg.sha512",
-    "/Users/macbookpro16/.nuget/packages/xunit.runner.visualstudio/3.1.0/xunit.runner.visualstudio.3.1.0.nupkg.sha512",
-    "/Users/macbookpro16/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
-    "/Users/macbookpro16/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512"
+    "/Users/macbookpro16/.nuget/packages/xunit.runner.visualstudio/3.1.0/xunit.runner.visualstudio.3.1.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "message": "Package 'xunit.runner.visualstudio 3.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
-      "projectPath": "/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/2-TownsApplication/TownApplication.IntegrationTests/TownApplication.IntegrationTests.csproj",
-      "warningLevel": 1,
-      "filePath": "/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/2-TownsApplication/TownApplication.IntegrationTests/TownApplication.IntegrationTests.csproj",
-      "libraryId": "xunit.runner.visualstudio",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }

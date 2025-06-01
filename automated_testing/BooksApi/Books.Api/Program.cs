@@ -39,7 +39,7 @@ namespace Books.Api
             builder.Services.AddTransient<IBookService, BookService>();
 
             var app = builder.Build();
-
+            app.UseCors();
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();

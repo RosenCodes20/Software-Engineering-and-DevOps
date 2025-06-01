@@ -1,12 +1,14 @@
+/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/2-TownsApplication/TownApplication.IntegrationTests/bin/Debug/net6.0/.msCoverageSourceRootsMapping_TownApplication.IntegrationTests
 /Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/2-TownsApplication/TownApplication.IntegrationTests/bin/Debug/net6.0/CoverletSourceRootsMapping
 /Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/2-TownsApplication/TownApplication.IntegrationTests/bin/Debug/net6.0/TownsApplication.deps.json
 /Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/2-TownsApplication/TownApplication.IntegrationTests/bin/Debug/net6.0/TownsApplication.runtimeconfig.json
 /Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/2-TownsApplication/TownApplication.IntegrationTests/bin/Debug/net6.0/TownsApplication
+/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/2-TownsApplication/TownApplication.IntegrationTests/bin/Debug/net6.0/xunit.abstractions.dll
+/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/2-TownsApplication/TownApplication.IntegrationTests/bin/Debug/net6.0/xunit.runner.visualstudio.testadapter.dll
 /Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/2-TownsApplication/TownApplication.IntegrationTests/bin/Debug/net6.0/TownApplication.IntegrationTests.deps.json
 /Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/2-TownsApplication/TownApplication.IntegrationTests/bin/Debug/net6.0/TownApplication.IntegrationTests.runtimeconfig.json
 /Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/2-TownsApplication/TownApplication.IntegrationTests/bin/Debug/net6.0/TownApplication.IntegrationTests.dll
 /Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/2-TownsApplication/TownApplication.IntegrationTests/bin/Debug/net6.0/TownApplication.IntegrationTests.pdb
-/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/2-TownsApplication/TownApplication.IntegrationTests/bin/Debug/net6.0/xunit.abstractions.dll
 /Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/2-TownsApplication/TownApplication.IntegrationTests/bin/Debug/net6.0/TownsApplication.dll
 /Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/2-TownsApplication/TownApplication.IntegrationTests/bin/Debug/net6.0/TownsApplication.pdb
 /Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/2-TownsApplication/TownApplication.IntegrationTests/obj/Debug/net6.0/TownApplication.IntegrationTests.csproj.AssemblyReference.cache
@@ -21,5 +23,3 @@
 /Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/2-TownsApplication/TownApplication.IntegrationTests/obj/Debug/net6.0/TownApplication.IntegrationTests.pdb
 /Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/2-TownsApplication/TownApplication.IntegrationTests/obj/Debug/net6.0/TownApplication.IntegrationTests.genruntimeconfig.cache
 /Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/2-TownsApplication/TownApplication.IntegrationTests/obj/Debug/net6.0/ref/TownApplication.IntegrationTests.dll
-/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/2-TownsApplication/TownApplication.IntegrationTests/bin/Debug/net6.0/xunit.runner.visualstudio.testadapter.dll
-/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/2-TownsApplication/TownApplication.IntegrationTests/bin/Debug/net6.0/.msCoverageSourceRootsMapping_TownApplication.IntegrationTests

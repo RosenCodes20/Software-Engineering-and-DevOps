@@ -1,0 +1,16 @@
+/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/BooksApi/Books.Core/bin/Debug/net9.0/Books.Core.deps.json
+/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/BooksApi/Books.Core/bin/Debug/net9.0/Books.Core.dll
+/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/BooksApi/Books.Core/bin/Debug/net9.0/Books.Core.pdb
+/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/BooksApi/Books.Core/bin/Debug/net9.0/Books.Infrastructure.dll
+/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/BooksApi/Books.Core/bin/Debug/net9.0/Books.Infrastructure.pdb
+/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/BooksApi/Books.Core/obj/Debug/net9.0/Books.Core.csproj.AssemblyReference.cache
+/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/BooksApi/Books.Core/obj/Debug/net9.0/Books.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/BooksApi/Books.Core/obj/Debug/net9.0/Books.Core.AssemblyInfoInputs.cache
+/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/BooksApi/Books.Core/obj/Debug/net9.0/Books.Core.AssemblyInfo.cs
+/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/BooksApi/Books.Core/obj/Debug/net9.0/Books.Core.csproj.CoreCompileInputs.cache
+/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/BooksApi/Books.Core/obj/Debug/net9.0/Books.Core.sourcelink.json
+/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/BooksApi/Books.Core/obj/Debug/net9.0/Books.Core.csproj.Up2Date
+/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/BooksApi/Books.Core/obj/Debug/net9.0/Books.Core.dll
+/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/BooksApi/Books.Core/obj/Debug/net9.0/refint/Books.Core.dll
+/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/BooksApi/Books.Core/obj/Debug/net9.0/Books.Core.pdb
+/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing/BooksApi/Books.Core/obj/Debug/net9.0/ref/Books.Core.dll
