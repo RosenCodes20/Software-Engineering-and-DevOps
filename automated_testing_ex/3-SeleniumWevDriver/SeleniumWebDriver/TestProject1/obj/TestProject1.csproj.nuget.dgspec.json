@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing_ex/3-SeleniumWevDriver/SeleniumWebDriver/TestProject1/TestProject1.csproj": {}
+  },
+  "projects": {
+    "/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing_ex/3-SeleniumWevDriver/SeleniumWebDriver/TestProject1/TestProject1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing_ex/3-SeleniumWevDriver/SeleniumWebDriver/TestProject1/TestProject1.csproj",
+        "projectName": "TestProject1",
+        "projectPath": "/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing_ex/3-SeleniumWevDriver/SeleniumWebDriver/TestProject1/TestProject1.csproj",
+        "packagesPath": "/Users/macbookpro16/.nuget/packages/",
+        "outputPath": "/Users/macbookpro16/Vs_code/Software-Engineering-and-DevOps/automated_testing_ex/3-SeleniumWevDriver/SeleniumWebDriver/TestProject1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/macbookpro16/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.21.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.21.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[126.0.6478.6100, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
